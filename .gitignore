@@ -1,0 +1,12 @@
+# Exclure l'application et les cartes
+burkina_application_shiny/
+burkina_cartes_thematiques/
+
+# Fichiers temporaires R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
