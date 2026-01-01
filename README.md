@@ -28,3 +28,13 @@ AWOUTO K. Samson - Élève Ingénieur Statisticien Économiste, ENSAE Dakar
 
 ## Licence
 Les données sont libres d'utilisation à des fins éducatives et de recherche.
+
+Ce travail est sous licence **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+- **Attribution** : Vous devez créditer l'auteur (AWOUTO K. Samson).
+- **Pas d'usage commercial** : Vous ne pouvez pas utiliser ces données à des fins commerciales sans autorisation.
+- **Partage** : Si vous modifiez ces données, vous devez distribuer vos contributions sous la même licence.
+
+## 📜 Citation
+Veuillez citer ce travail comme suit :
+> AWOUTO, K. S. (2026). *Données Géographiques Burkina Faso - Réforme 2025*. ENSAE Dakar. https://github.com/Awoutokoffisamson/burkina_donnees_geographiques
+
